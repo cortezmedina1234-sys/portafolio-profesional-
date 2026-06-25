@@ -109,8 +109,7 @@ export default function App() {
               mx: "auto",
             }}
           >
-            Estudiante de Ingeniería en
-            Sistemas Computacionales con
+            Estudiante de Ingeniería Informatica con
             experiencia en desarrollo web,
             bases de datos y aplicaciones
             empresariales.
@@ -123,8 +122,7 @@ export default function App() {
       <Section title="Perfil Profesional">
         <Typography>
           Soy Fernando Medina Cortez,
-          estudiante de Ingeniería en
-          Sistemas Computacionales.
+          estudiante de Ingeniería Informatica.
           Me especializo en React,
           NestJS, MySQL y desarrollo
           Full Stack.
@@ -295,7 +293,7 @@ export default function App() {
           <Box display="flex" gap={2}>
             <GitHub />
             <Typography>
-              Agrega aquí tu GitHub
+             https://github.com/cortezmedina1234-sys/portafolio-profesional-.git
             </Typography>
           </Box>
         </Stack>
